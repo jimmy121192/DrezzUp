@@ -1,0 +1,25 @@
+{
+  "short_name": "Drezz Up",
+  "name": "JT Style",
+  "icons": [
+    {
+      "src": "drezzup.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "drezzup.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "drezzup.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d2a784",
+  "background_color": "#ffffff"
+}
